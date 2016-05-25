@@ -28,6 +28,7 @@ var helloworld=cc.Layer.extend({
         var pic_sprite=[res.bg,res.three,res.five,res.seven,res.girl,res.home];
         self=this;
         //创建精灵函数封装（精灵名称，定位信息，图片来源）
+        //testing
         var create_sprite=function(name,location,pic){
             self[name]=new cc.Sprite(pic);
             self[name].setPosition(location[0],location[1]);
