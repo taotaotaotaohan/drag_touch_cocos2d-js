@@ -15,6 +15,7 @@ var helloworld=cc.Layer.extend({
             home:"res/image 164.png"
         };
         //定位信息
+
         var location={
             bgsprite:[size.width/2,size.height/2],
             sprite3:[size.width/3,size.height/2],
