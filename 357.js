@@ -1,5 +1,5 @@
 /**
- * Created by taohan on 16/5/24.
+ * Created by taohan on 16/5/24.master 5/30
  */
 var helloworld=cc.Layer.extend({
     ctor:function(){
